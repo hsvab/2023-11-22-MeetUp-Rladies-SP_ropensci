@@ -1,0 +1,25 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# **odbr** package development
+
+Haydée Svab
+
+rOpenSci Champions Program \| 2023 June
+
+## Objective
+
+Share the development stage of the **odbr** package, which makes
+available data from Brazil’s orgin-destination (OD) surveys.
+
+[GitHub repository](https://github.com/hsvab/odbr)
+
+## References
+
+-   My master’s thesis: [Mobility pattern trends in the metropolitan
+    area of São Paulo: the need of a gender
+    perspective](https://www.teses.usp.br/teses/disponiveis/3/3138/tde-30092016-142308/pt-br.php)
+
+-   GitHub repositories:
+    [databases](https://github.com/hsvab/mestrado-usp-ODs) and
+    [algorithms](https://github.com/hsvab/mestrado-usp-algoritmos)

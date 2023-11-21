@@ -1,0 +1,285 @@
+---
+title: "**rOpenSci** </br> Programa de Campeãs e Campeões na América Latina"
+author: "Haydee Svab"
+date: "rOpenSci Champions Program | 2023-11-22"
+format:
+  revealjs:
+    logo: "images/LatinR_LOGOS-21.png"
+    width: 1600
+    height: 900
+    self-contained: false
+    incremental: false
+    footer: "Slides by [Haydée Svab](https://www.linkedin.com/in/hsvab/) (@hsvab), made with [Quarto](https://quarto.org/docs/presentations/revealjs/index.html). Code available [on GitHub](https://github.com/hsvab/latinr2023-championsprogram)."
+    theme: ["custom.scss"]
+    slide-number: c/t
+    show-slide-number: all
+    hash-type: number
+    preview-links: false
+---
+
+# rOpenSci
+
+
+## rOpenSci
+
+<br> 
+
+### Missão
+
+A rOpenSci promove uma cultura que valoriza a pesquisa **aberta** e 
+**reprodutível** usando dados **compartilhados** e softwares reutilizáveis.
+
+
+## rOpenSci
+
+### Eixos de Ação
+
+- Disponibilizar infraestrutura técnica com contribuição da equipe e da comunidade de forma a reduzir barreiras ao trabalho com fontes de dados científicos na web
+- Tornar dados, ferramentas e boas práticas mais acessíveis
+- Criar infraestrutura social: comunidade acolhedora e diversa
+- Promover a defesa de uma cultura de compartilhamento de dados e softwares livres/open-source
+- Capacitar pessoas no uso de software e promover o sentimento de orgulho do seu trabalho
+
+## rOpenSci 
+
+### Linha do tempo
+
+![](images/ropensci-timeline.png){.r-stretch}
+
+
+# Programa Campeãs/Campeões
+
+
+## Marco conceitual
+
+As pessoas campeãs de uma comunidade são aquelas que assumem maior
+responsabilidade pelo sucesso, pela sustentabilidade e/ou por seu
+funcionamento.[1]
+
+<br> 
+
+![](images/CSCCE_CPM_Final.jpg)
+
+## Objetivo geral
+
+::: columns
+::: {.column width="40%"}
+
+- Identificar, reconhecer e recompensar líderes em uma comunidade.
+- Destina-se a pessoas de grupos histórica e sistematicamente excluídos que estejam interessadas em contribuir com a rOpenSci e com as comunidades mais amplas de código aberto e ciência aberta.
+
+:::
+
+::: {.column width="60%"}
+
+![Illustration for rOpenSci by Lydia Hill](images/ropensci-champions1.png){fig-align="center"}
+
+:::
+:::
+
+## Elegiblidade
+
+- pessoas que trabalham com STEAM (ciência, tecnologia, engenharia e matemática)
+- de qualquer lugar em qualquer lugar do mundo
+- que tenham conhecimento de desenvolvimento com a linguagem R
+- possuam habilidades básicas de comunicação em inglês (escrita e verbal)
+
+E que desejem:
+
+- desenvolver um novo pacote, ou
+- ter um pacote em R, já desenvolvio, revisado por pares, ou
+- se tornar revisoras da rOpenSci
+
+## Objetivos específicos do programa
+
+- Adquirir habilidades para desenvolver seu próprio pacote R ou;
+- Adquirir confiança para enviar um pacote R para revisão por pares; ou
+- Tornar-se um revisor
+
+- Aprender a liderar um workshop, evento ou outra atividade da rOpenSci sobre o
+tópico de desenvolvimento de pacotes ou revisão por pares de software em sua
+comunidade local
+- Conectar-se a uma rede dentro do ecossistema R
+- Fornecer feedback para ajudar a rOpenSci a continuar organizando atividades
+relevantes e acolhedoras para desenvolvedores de R
+
+
+## Como funciona
+
+::: columns
+::: {.column width="50%"}
+
+- Interessados/as/es devem preencher um formulário, geralmente disponibilizado
+entre julho e outubro
+
+- As inscrições são individuais
+
+- Não há custo para participar
+
+:::
+
+::: {.column width="50%"}
+- Duração: 12 meses
+
+- Dedicação estimada: de 10 a 16 horas mensais
+
+- Bolsa: US$ 1.000 para quem concluir o programa
+
+:::
+:::
+
+![](images/ropensci-funcionamento.png){.r-stretch}
+
+
+## 1a/2a edições - 2022/2023 e 2023/2024
+
+Candidaturas: 171 campeãs/ões, 56 mentoras/es, 55 países
+
+![](images/countriesApplications_en.png){fig-align="center"}
+
+<br>
+
+
+**América Latina: 3 mentoras/es | 5 campeãs/ões | 3 instrutoras/es/**
+
+## Mentoras/es latinoamericanas/os
+
+::: columns
+::: {.column width="33%"}
+
+Beatriz Milz
+![](images/beatriz-milz-mentor.jpeg "Title: Beatriz Milz, photo"){height=300px fig-align="center"  fig-alt="Beatriz Milz, photo"}
+:::
+
+::: {.column width="33%"}
+
+Elio Campitelli
+![](images/elio-campitelli.jpg "Title: Elio Campitelli photo"){height=300px fig-align="center"  fig-alt="Elio Campitelli photo"}
+
+:::
+
+::: {.column width="34%"}
+
+Mauro Lepore
+![](images/mauro-lepore-mentor.jpg "Title: Mauro Lepore photo"){height=300px fig-align="center"  fig-alt="Mauro Lepore photo"}
+
+:::
+:::
+
+![](images/ciclo-orientacao.png "Title: Ciclo da mentoria"){height=370px fig-align="center"  fig-alt="Ciclo da mentoria"}
+
+
+## Lições aprendidas
+
+- Ferramentas e espaço para que campeãs/ões e mentoras/es desenvolvam seus projetos de desenvolvimento ou revisão de pacotes com:
+   - ganho de experiência
+   - aprimoramento de competências
+   - orientação de mentores
+   - apoio de uma comunidade
+   - aspecto formal com cronograma definido ajuda a manter o o foco na tarefa e a concluí-la em um tempo razoável
+
+      
+## Lições aprendidas
+
+- Retorno tangível à comunidade latino-americana de pesquisa e desenvolvimento por diferentes meios, como:
+   - é necessários que campeãs/ões compartilhem o que aprenderam com a comunidade (blogposts, workshops, etc.)
+   - aumento do material atualizado em espanhol e português sobre desenvolvimento/revisão de pacotes
+   - aumento da procura de pessoas pelo programa, em todas suas finalidades
+   
+![](images/check.png "Lições aprendidas logo"){width=150px fig-align="center"  fig-alt="Lições aprendidas logo"}
+   
+
+# Pacotes desenvolvidos / revisados
+
+## Pacotes desenvolvidos / revisados
+
+<br>
+
+::: columns
+::: {.column width="20%"}
+
+**eph**
+
+![](images/eph.png "Title: eph package logo"){width=150px fig-alt="eph package logo"}
+
+Por Carolina Pradier
+
+![](images/carolina-pradier-mentee.jpg "Title: Carolina Pradier photo"){height=150px fig-alt="Carolina Pradier photo"}
+
+:::
+
+::: {.column width="20%"}
+
+**karel**
+
+![](images/karel.png "Title: karel package logo"){width=150px fig-alt="karel package logo"}
+
+Por Marcos M. Prunello
+
+![](images/marcos-prunello-mentee.jpg "Title: Marcos Miguel Prunello photo"){height=150px fig-alt="Marcos Miguel Prunello photo"}
+:::
+
+::: {.column width="20%"}
+
+**agromet**
+
+![](images/agromet.png "Title: agromet package logo"){width=150px fig-alt="agromet package logo"}
+
+Por Paola Corrales
+
+![](images/paola-corrales.png "Title: Paola Corrales photo"){height=150px fig-alt="Paola Corrales photo"}
+
+:::
+
+::: {.column width="20%"}
+
+**rgeeExtra**
+
+![](images/rgeeextra.png "Title: rgeeextra package logo"){width=150px fig-alt="rgeeextra package logo"}
+
+Por Cesar L. A. Camacho
+
+![](images/cesar-luis-aybar-camacho-mentee.jpeg "Title: Cesar Luis Aybar Camacho photo"){height=150px fig-alt="Cesar Luis Aybar Camacho photo"}
+
+:::
+
+::: {.column width="20%"}
+
+**odbr**
+
+![](images/odbr.png "Title: odbr package logo"){width=170px fig-alt="odbr package logo"}
+
+Por Haydee Svab
+
+![](images/foto-linkedin.jpeg "Title: Haydee Svab photo"){height=150px fig-alt="Haydee Svab photo"}
+
+:::
+:::
+
+
+# Comunidade
+
+## As pessoas
+
+Sem a oportunidade e as pessoas, não seria possível!
+
+![](images/ropensci-champions_people.png "Title: Champions edição 2022/2023"){width=600px fig-align="center"  fig-alt="Champions edição 2022/2023"}
+
+## Referências
+
+<br>
+
+[1] [The CSCCE Community Participation Model - Exploring the Champion mode.
+(2021). Woodley and Pratt doi 10.5281/zenodo.5275270](https://zenodo.org/records/5275270)
+
+<br>
+
+Repositórios do GitHub: [bases de dados](https://github.com/hsvab/mestrado-usp-ODs) e [algoritmos](https://github.com/hsvab/mestrado-usp-algoritmos) do mestrado,
+[pacote agromet](https://github.com/AgRoMeteorologiaINTA/agromet),
+[pacote eph](https://github.com/ropensci/eph), 
+[pacote karel](https://mpru.github.io/karel/), 
+[pacote rgeeExtra](https://github.com/AgRoMeteorologiaINTA/agromet), 
+[pacote odbr](https://github.com/hsvab/odbr),
+[pacote aopdata](https://cran.r-project.org/web/packages/aopdata/index.html), 
+[pacote censobr](https://cran.r-project.org/web/packages/censobr/index.html)
+
